@@ -1,0 +1,12 @@
+
+
+{
+    "mongoURI":
+      "mongodb+srv://Palak:Palak@book1.fq1clco.mongodb.net/?retryWrites=true&w=majority"
+  }
+   
+
+// {
+
+//   "mongoURI":"mongodb+srv://Palak:Palak@book1.fq1clco.mongodb.net/?retryWrites=true&w=majority"
+// }
